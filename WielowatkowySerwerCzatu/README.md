@@ -1,7 +1,7 @@
 # Projekt 2 - Systemy Operacyjne 2 - SERWER CZATOWY
 
 ## 1. Opis
-Niniejszy projekt przedstawia działanie serwera czatowego napisanego w C++ z użyciem biblioteki Winsock2 oraz mechanizmów wielowątkowości (<thread>, <mutex>). Celem projektu było stworzenie serwera umożliwiającego komunikację tekstową między wieloma klientami w czasie rzeczywistym poprzez TCP. Dodatkowo została zaimplementowana identyfikacja użytkowników za pomocą nazw i losowo przypisanych kolorów.
+Niniejszy projekt przedstawia działanie serwera czatowego napisanego w C++ z użyciem biblioteki Winsock2 oraz mechanizmów wielowątkowości (`thread`, `mutex`). Celem projektu było stworzenie serwera umożliwiającego komunikację tekstową między wieloma klientami w czasie rzeczywistym poprzez TCP. Dodatkowo została zaimplementowana identyfikacja użytkowników za pomocą nazw i losowo przypisanych kolorów.
 
 ## 2. Technologie i biblioteki
 -	Język programowania: C++
